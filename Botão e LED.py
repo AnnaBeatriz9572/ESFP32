@@ -9,3 +9,6 @@ while True:
         led.value(1)
     else:
         led.value(0)
+
+#INSTRUÇÕES:
+# Foi utilizado: 1 ESFP32, 1 resistor de 220V para o LED vermelho, um botão, uma miniboard e jumpers para as conexões.
